@@ -1,0 +1,141 @@
++-- HW2
+	|-- HW2.zip
+	|-- q4t.class
+	|-- q4t.java
+	|-- q4t.txt
+	|-- queen.txt
+	|-- queens.class
+	|-- queens.java
+	|-- queens.txt
+	|-- Question1.class
+	|-- Question1.java
+	|-- Question1output.txt
+	|-- Question2.class
+	|-- Question2.java
+	|-- Question2output.txt
+	|-- Question3.class
+	|-- Question3.java
+	|-- Question3output.txt
+	|-- Question4.txt
+	|-- Question5.class
+	|-- Question5.java
+	|-- Question5output.txt
+	|-- Question6.class
+	|-- Question6.java
+	|-- Question6output.txt
++-- HW3
+	+-- .git
+		|-- config
+		|-- description
+		|-- HEAD
+		+-- hooks
+			|-- applypatch-msg.sample
+			|-- commit-msg.sample
+			|-- post-update.sample
+			|-- pre-applypatch.sample
+			|-- pre-commit.sample
+			|-- pre-push.sample
+			|-- pre-rebase.sample
+			|-- pre-receive.sample
+			|-- prepare-commit-msg.sample
+			|-- update.sample
+		+-- info
+			|-- exclude
+		+-- lfs
+			+-- objects
+				+-- logs
+					|-- 20170918T223443.269587.log
+			+-- tmp
+				+-- objects
+		+-- objects
+			+-- info
+			+-- pack
+		+-- refs
+			+-- heads
+			+-- tags
+	+-- testforhwfolder
+		|-- baited.txt
+|-- HW3.java
+|-- HW5.class
+|-- HW5.java
+|-- HW5output.txt
++-- HW6
+	|-- HW6.class
+	|-- HW6.java
+	|-- HW6Child.class
+	|-- HW6Child.java
+	|-- HW6Parent.class
+	|-- HW6Parent.java
++-- hw7
+	|-- Calculator.class
+	|-- Calculator.java
++-- HW8
+	|-- dir_tree.txt
+	|-- HW8.zip
+	|-- HW8Q1.class
+	|-- HW8Q1.java
+	|-- HW8Q2.txt
++-- java
+	|-- HW1.zip
+	+-- New folder
+	|-- Question1.txt
+	|-- Question2 output.txt
+	|-- Question2.class
+	|-- Question2.java
+	|-- Question3 output.txt
+	|-- Question3.class
+	|-- Question3.java
+	|-- Question4 output.txt
+	|-- Question4.class
+	|-- Question4.java
+	|-- Question4numbers.txt
+	|-- Question5 output.txt
+	|-- Question5.class
+	|-- Question5.java
+	|-- Question6 output.txt
+	|-- Question6.class
+	|-- Question6.java
++-- javahw
+	+-- .git
+		|-- COMMIT_EDITMSG
+		|-- config
+		|-- description
+		|-- HEAD
+		+-- hooks
+			|-- applypatch-msg.sample
+			|-- commit-msg.sample
+			|-- post-update.sample
+			|-- pre-applypatch.sample
+			|-- pre-commit.sample
+			|-- pre-push.sample
+			|-- pre-rebase.sample
+			|-- pre-receive.sample
+			|-- prepare-commit-msg.sample
+			|-- update.sample
+		|-- index
+		+-- info
+			|-- exclude
+		+-- lfs
+			+-- objects
+				+-- logs
+			+-- tmp
+				+-- objects
+		+-- logs
+			|-- HEAD
+			+-- refs
+				+-- heads
+					|-- master
+		+-- objects
+			+-- 92
+				|-- 42e3b85362da8d79963f682b9e6fcc0eafca94
+			+-- b6
+				|-- 1f7545cfc30943469c3218a894807826d0f446
+			+-- eb
+				|-- a1110b5794582b53554bb1e4224b860d4e173f
+			+-- info
+			+-- pack
+		+-- refs
+			+-- heads
+				|-- master
+			+-- tags
+	|-- .gitattributes
